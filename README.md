@@ -1,5 +1,5 @@
 # **python-projects**
-### development environment
+### editor
 - Google Colaboratory
 - VScode(VisualStudioCode)
 ### basis
