@@ -27,6 +27,9 @@
     - Naive Bayes Regression
     - Logistic Regression
     - LightGBM Regression
+- Pytorch
+  - DNN
+  - CNN
 ### SIGNATE Projects
 - [x] モノクロ顔画像の感情分類
 - [x] テニスの試合結果の予測
