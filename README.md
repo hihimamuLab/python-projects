@@ -1,4 +1,7 @@
 # **python-projects**
+### development environment
+- Google Colaboratory
+- VScode(VisualStudioCode)
 ### basis
 - Numpy
 - Matplotlib
@@ -36,7 +39,7 @@
 - [x] ガラスの分類
 - [x] PCゲームの勝敗予測
 - [x] 第6回AIエッジコンテスト（実装コンテスト④）
-- 渋滞予測チャレンジコンテスト
+- [x] 渋滞予測チャレンジコンテスト
 ### discord.py
 in the midst of an effort...
 ### .....rest
