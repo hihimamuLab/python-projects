@@ -1,1 +1,1 @@
-# **discord.py-projects**
+# **python-projects**
